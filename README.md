@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Lucas Furtado. Bem Vindo ao meu perfil ヾ(^▽^*)-
 
-- 👨‍🎓 Sou um eterno aprendiz no mundo da programação
-- 🌱 Atualmente estou estudando Python e Desenvolvimento de Aplicativos Android
+- 🎓 Sou um eterno aprendiz no mundo da programação
+- 📝 Atualmente estou estudando Python e Desenvolvimento de Aplicativos Android
 
 <h4><i>Contate-me:</i></h4
 <div style="display: inline_block">
