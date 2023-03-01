@@ -15,6 +15,7 @@
 
 <br>
 
+<img align="right" alt="LucasFS-avatar" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/41e2392d0caa04badb2a9e6739a19bab.gif" width="300" height="300">
 
 <div align="center">
   <h2>Status do GitHub</h2>
