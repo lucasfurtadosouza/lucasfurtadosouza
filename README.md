@@ -3,15 +3,15 @@
 - 🎓 Sou um eterno aprendiz no mundo da programação
 - 📝 Atualmente estou estudando Python e Desenvolvimento de Aplicativos Android
 
-<h4><i>Contate-me:</i></h4
-<div style="display: inline_block">
-  <img align="right" alt="LucasFS-avatar" style="border-radius:50px" src="https://media.discordapp.net/attachments/1066045440820256830/1080633203682971759/Gif-avatar-LucasFS-Borda.gif" width="230" height="230">
-</div>
+<h4><i>Contate-me:</i></h4>
+
+<img align="right" alt="LucasFS-avatar" src="https://media.discordapp.net/attachments/1066045440820256830/1080633203682971759/Gif-avatar-LucasFS-Borda.gif" width="230" height="230">
 
 <a href="https://www.linkedin.com/in/lucas-furtado-souza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:lucasfurtado256@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<br><br>
+<br>
+<br>
 
 
 ## Áreas de Conhecimento
