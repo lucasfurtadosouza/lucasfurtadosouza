@@ -1,23 +1,24 @@
 ## Olá!! Eu sou o Lucas Furtado. Bem Vindo ao meu perfil ヾ(^▽^*)-
+
+- 👨‍🎓 Sou um eterno aprendiz no mundo da programação
+- 🌱 Atualmente estou estudando Python e Desenvolvimento de Aplicativos Android
+
 <h4><i>Contate-me:</i></h4>    
 <a href="https://www.linkedin.com/in/lucas-furtado-souza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:lucasfurtado256@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br><br>
 
-#  
-- 👨‍🎓 Sou um eterno aprendiz no mundo da programação
-- 🌱 Atualmente estou estudando Python e Desenvolvimento de Aplicativos Android
-#
+
 
 ## Áreas de Conhecimento
 [![SkillIcons](https://skillicons.dev/icons?i=cs,mysql,html,css,bootstrap,js,php)](https://skillicons.dev)
 
+<br>
 
 
 <div align="center">
   <h2>Status do GitHub</h2>
 </div>
-
-
 <div align="center">
   <div>
   <a href="https://github.com/lucasfurtadosouza">
