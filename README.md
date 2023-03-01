@@ -4,10 +4,9 @@
 <a href="mailto:lucasfurtado256@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 #  
-
 - 👨‍🎓 Sou um eterno aprendiz no mundo da programação
 - 🌱 Atualmente estou estudando Python e Desenvolvimento de Aplicativos Android
-
+#
 
 ## Áreas de Conhecimento
 [![SkillIcons](https://skillicons.dev/icons?i=cs,mysql,html,css,bootstrap,js,php)](https://skillicons.dev)
