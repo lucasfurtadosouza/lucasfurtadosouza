@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Lucas Furtado ヾ(^▽^*)-
+## Olá!! Eu sou o Lucas Furtado. Bem Vindo ao meu perfil ヾ(^▽^*)-
 - 👨‍🎓 Sou um eterno aprendiz no mundo da programação
 - 🌱 Atualmente estou estudando Python e Desenvolvimento de Aplicativos Android
 - 📫 Contate-me pelo email: lucasfurtado256@gmail.com
