@@ -12,13 +12,12 @@
 - 🎓 Técnico em Informática pelo Institudo Federal de Rondônia.
 - 📚 Sempre com foco no estudo no mundo da programação.
 - 📝 Atualmente estou estudando Python e Desenvolvimento de Aplicativos Android.
+
+
 <br>
 
 <div align="center">
   <h2>Status do GitHub</h2>
-</div>
-<div align="center">
-  <div>
   <a href="https://github.com/lucasfurtadosouza">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasfurtadosouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfurtadosouza&layout=compact&langs_count=7&theme=dracula"/>
