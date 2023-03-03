@@ -6,7 +6,7 @@
   <a href="mailto:lucasfurtado256@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <br>
-<img align="right" alt="LucasFS-avatar" src="https://media.discordapp.net/attachments/1066045440820256830/1080633203682971759/Gif-avatar-LucasFS-Borda.gif" width="150" height="150">
+<img align="right" alt="LucasFS-avatar" src="https://media.discordapp.net/attachments/1066045440820256830/1080633203682971759/Gif-avatar-LucasFS-Borda.gif" width="160" height="160">
 
 
 - 🎓 Técnico em Informática pelo Institudo Federal de Rondônia.
