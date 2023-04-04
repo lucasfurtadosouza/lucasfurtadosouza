@@ -9,7 +9,7 @@
 <img align="right" alt="LucasFS-avatar" src="https://media.discordapp.net/attachments/1066045440820256830/1080633203682971759/Gif-avatar-LucasFS-Borda.gif" width="140" height="140">
 
 
-- 🎓 Técnico em Informática pelo Institudo Federal de Rondônia.
+- 🎓 Técnico em Informática pelo Instituto Federal de Rondônia.
 - 📚 Sempre com foco no estudo no mundo da programação.
 - 📝 Atualmente estou estudando Python e Desenvolvimento de Aplicativos Android.
 
